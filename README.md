@@ -1,2 +1,2 @@
 # jules
-langage C
+language C
